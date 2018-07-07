@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:padding="10dp"
+    android:textSize="20dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="8dp"
+    android:textColor="#641E16"
+    android:layout_marginRight="10dp"
+    android:text="No item found"
+    android:background="#B3B6B7"
+    android:layout_height="wrap_content" />
